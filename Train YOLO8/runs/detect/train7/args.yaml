@@ -2,12 +2,12 @@ task: detect
 mode: train
 model: yolov8.yaml
 data: data.yaml
-epochs: 5
+epochs: 10
 patience: 50
-batch: 6
+batch: 4
 imgsz:
-- 5568
-- 2532
+- 1856
+- 844
 save: true
 save_period: -1
 cache: false
@@ -68,9 +68,9 @@ simplify: false
 opset: null
 workspace: 4
 nms: false
-lr0: 0.01
-lrf: 0.01
-momentum: 0.937
+lr0: 0.05
+lrf: 0.0001
+momentum: 0.9
 weight_decay: 0.0005
 warmup_epochs: 3.0
 warmup_momentum: 0.8

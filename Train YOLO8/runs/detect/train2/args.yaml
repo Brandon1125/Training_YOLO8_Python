@@ -2,9 +2,9 @@ task: detect
 mode: train
 model: yolov8.yaml
 data: data.yaml
-epochs: 5
+epochs: 20
 patience: 50
-batch: 16
+batch: 6
 imgsz: 640
 save: true
 save_period: -1
@@ -15,7 +15,7 @@ project: null
 name: null
 exist_ok: false
 pretrained: true
-optimizer: auto
+optimizer: SGD
 verbose: true
 seed: 0
 deterministic: true
@@ -23,7 +23,7 @@ single_cls: false
 rect: false
 cos_lr: false
 close_mosaic: 10
-resume: false
+resume: null
 amp: true
 fraction: 1.0
 profile: false
@@ -66,9 +66,9 @@ simplify: false
 opset: null
 workspace: 4
 nms: false
-lr0: 0.01
+lr0: 0.05
 lrf: 0.01
-momentum: 0.937
+momentum: 0.9
 weight_decay: 0.0005
 warmup_epochs: 3.0
 warmup_momentum: 0.8

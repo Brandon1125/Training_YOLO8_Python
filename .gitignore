@@ -3,3 +3,9 @@ Labels/
 Train YOLO8/Dataset/test/
 Train YOLO8/Dataset/train/
 Train YOLO8/Dataset/valid/
+Train YOLO8/runs/detect/train/
+Train YOLO8/runs/detect/train2/
+Train YOLO8/runs/detect/train3/
+Train YOLO8/runs/detect/train4/
+Train YOLO8/runs/detect/train7/
+Numbers_Coordinates_TableroC - copia.csv
