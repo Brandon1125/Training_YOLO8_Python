@@ -1,0 +1,7 @@
+#path: C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\Train YOLO8\Dataset
+train: C:/Users/mtto_/OneDrive/Escritorio/Proyect/Augmentation/Train YOLO8/Dataset/train
+test: C:/Users/mtto_/OneDrive/Escritorio/Proyect/Augmentation/Train YOLO8/Dataset/test
+val: C:/Users/mtto_/OneDrive/Escritorio/Proyect/Augmentation/Train YOLO8/Dataset/valid
+
+nc: 30  # Número de clases
+names: ['9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38']

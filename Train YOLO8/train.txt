@@ -1,0 +1,64 @@
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_0Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_0Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_0temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_0temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_10Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_10Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_10temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_10temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_11Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_11Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_11temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_11temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_12Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_12Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_12temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_12temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_13Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_13Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_13temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_13temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_14Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_14Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_14temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_14temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_15Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_15Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_15temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_15temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_16Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_16Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_16temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_16temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_17Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_17Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_17temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_17temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_18Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_18Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_18temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_18temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_19Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_19Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_19temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_19temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_1Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_1Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_1temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_1temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_20Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_20Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_20temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_20temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_210Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_210Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_210temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_210temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_211Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_211Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_211temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_211temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_212Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_212Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_212temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_212temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_213Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_213Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_213temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_213temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_214Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_214Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_214temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_214temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_215Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_215Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_215temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_215temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_216Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_216Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_216temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_216temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_217Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_217Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_217temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_217temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_218Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_218Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_218temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_218temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_219Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_219Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_219temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_219temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_21Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_21Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_21temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_21temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_22Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_22Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_22temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_22temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_23Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_23Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_23temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_23temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_24Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_24Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_24temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_24temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_25Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_25Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_25temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_25temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_26Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_26Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_26temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_26temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_27Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_27Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_27temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_27temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_28Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_28Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_28temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_28temp_img.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_29Tablero_C - copia.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_29Tablero_C - copia.txt
+C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_img\aug_29temp_img.png C:\Users\mtto_\OneDrive\Escritorio\Proyect\Augmentation\New_labels\aug_29temp_img.txt
