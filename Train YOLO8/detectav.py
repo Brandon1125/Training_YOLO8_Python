@@ -25,7 +25,7 @@ import time
 
 #######################################################
 #model = YOLO("/home/gera/Desktop/vale/runs/detect/train2/weights/best.pt")
-model = YOLO("C:/Users/mtto_/OneDrive/Escritorio/Proyect/Augmentation/Train YOLO8/runs/detect/train4/weights/last.pt")
+# model = YOLO("C:/Users/mtto_/OneDrive/Escritorio/Proyect/Augmentation/Train YOLO8/runs/detect/train4/weights/last.pt")
 # res= model.predict(
 #     source='/home/gera/Desktop/recorte.avi',
 #     conf=0.40,
@@ -81,12 +81,12 @@ cv2.destroyAllWindows()
 """
 
 
-
+model = YOLO("C:/Users/mtto_/OneDrive/Escritorio/Proyect/Augmentation/Train YOLO8/runs/detect/train6/weights/best.pt")
 #img = cv2.imread("C:/Users/mtto_/OneDrive/Escritorio/Proyect/Augmentation/Train YOLO8/Dataset/train/aug_9Tablero_C - copia.png")
 img = cv2.imread("C:/Users/mtto_/OneDrive/Escritorio/Proyect/Augmentation/Data/Tablero_C - copia.png")
 #img = cv2.rotate(img, cv2.ROTATE_90_CLOCKWISE)
 img = cv2.resize(img, (640, 640))
-res = model.predict(img, conf=0.1, save=False)[0]
+res = model.predict(img, conf=0.95, save=False)[0]
 
 frame = res.plot()
 cv2.imwrite("Result.png", frame)
