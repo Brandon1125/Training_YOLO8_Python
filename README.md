@@ -51,6 +51,8 @@ Si tu generas un nuevo modelo entrenado, se encontrará dentro de `Train YOLO8/r
 ## Notas Adicionales
 - Asegúrate de que todas las imágenes y etiquetas estén en una sola carpeta.
 - Puedes ajustar el número de épocas y el tamaño del lote en el script `Entrenamiento.py`.
+- Dificultad en la Detección: Con bounding boxes tan pequeñas que apenas son de 40x40 pixeles en una imagen de alta resolución de 11603x5568, el modelo podría tener dificultades para detectar y clasificar los objetos de interés de manera precisa. En un escenario ideal, los objetos de interés serían de un tamaño que facilite su detección y clasificación. Esto no significa que tengan que ser grandes, pero sí lo suficientemente grandes como para ser detectables de manera fiable.
+- Podemos incluso redimensionar la imagen y partir la imagen en 2 en 3 o en 4 para disminuir la resolución bastante mas y así tener mas datos, las Bounding Box se verán mas y tendremos mas precisión al momemnto de entrenar.
 
 
 
